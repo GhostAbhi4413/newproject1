@@ -28,7 +28,7 @@ The repository is a learning exercise to:
 
 # Conclusion :
 - The Project goal is to predict whether the patient has breast cancer or not
-- Logistic Regression Provided accuracy of 89%.
+- Logistic Regression Provided accuracy of 96%
 
 # project url
 https://breastcancerprediction101.herokuapp.com/
